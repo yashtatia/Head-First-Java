@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javax.swing.JPanel\ getGuiPanel()
+comment1.params=comd\ chan\ one\ two\ tick
+comment1.target=javax.sound.midi.MidiEvent\ makeEvent(int,\ int,\ int,\ int,\ int)
+numComments=2

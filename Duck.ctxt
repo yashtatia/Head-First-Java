@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Duck()
+comment1.params=newSize
+comment1.target=void\ setSize(int)
+numComments=2

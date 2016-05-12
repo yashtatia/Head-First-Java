@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=locs
+comment0.target=void\ setLocationCells(java.util.ArrayList)
+comment1.params=n
+comment1.target=void\ setName(java.lang.String)
+comment2.params=userInput
+comment2.target=java.lang.String\ checkYourself(java.lang.String)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=q\ a
+comment0.target=QuizCard(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getAnswer()
+comment2.params=
+comment2.target=java.lang.String\ getQuestion()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ go()
+comment2.params=file
+comment2.target=void\ loadFile(java.io.File)
+comment3.params=lineToParse
+comment3.target=void\ makeCard(java.lang.String)
+comment4.params=
+comment4.target=void\ showNextCard()
+numComments=5

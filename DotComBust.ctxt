@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUpGame()
+comment1.params=
+comment1.target=void\ startPlaying()
+comment2.params=userGuess
+comment2.target=void\ checkUserGuess(java.lang.String)
+comment3.params=
+comment3.target=void\ finishGame()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
